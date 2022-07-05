@@ -17,4 +17,3 @@ jobs:
       run: |
        pip3 install --user django
        python manage.py test
-Footer
